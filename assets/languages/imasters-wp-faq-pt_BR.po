@@ -1,0 +1,398 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: iMasters WP FAQ\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2009-09-16 10:16-0300\n"
+"PO-Revision-Date: \n"
+"Last-Translator: w3invent <daniel.w3invent@gmail.com>\n"
+"Language-Team: Apiki <leandro@apiki.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-Language: Portuguese\n"
+"X-Poedit-Country: BRAZIL\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SearchPath-0: ../..\n"
+
+#: ../../imasters-wp-faq-help.php:2
+#: ../../imasters-wp-faq.php:156
+msgid "Help"
+msgstr "Ajuda"
+
+#: ../../imasters-wp-faq-help.php:4
+msgid "To show the FAQ's insert the following code in the content of the page or post desired separated by category: <code>[imasters-wp-faq cat=\"1\"]</code>"
+msgstr "Para exibir as FAQ's, insira o seguinte código no conteúdo da página ou post desejado sepando por categoria: <code>[imasters-wp-faq cat=\"1\"]</code>"
+
+#: ../../imasters-wp-faq-manager-categories.php:35
+#: ../../imasters-wp-faq-manager-categories.php:85
+#: ../../imasters-wp-faq-manager.php:139
+msgid "Category name is required."
+msgstr "Nome da categoria é requerido."
+
+#: ../../imasters-wp-faq-manager-categories.php:48
+#: ../../imasters-wp-faq-manager.php:152
+msgid "Category added successfully."
+msgstr "Categoria adicionada com sucesso."
+
+#: ../../imasters-wp-faq-manager-categories.php:54
+#: ../../imasters-wp-faq-manager.php:158
+msgid "Category dont't added"
+msgstr "Categoria não adicionada."
+
+#: ../../imasters-wp-faq-manager-categories.php:98
+msgid "Category updated successfully."
+msgstr "Categoria atualizada com sucesso."
+
+#: ../../imasters-wp-faq-manager-categories.php:104
+msgid "Category dont't updated"
+msgstr "Categoria não atualizada."
+
+#: ../../imasters-wp-faq-manager-categories.php:112
+#: ../../imasters-wp-faq-manager-categories.php:247
+#: ../../imasters-wp-faq-manager.php:173
+#: ../../imasters-wp-faq-manager.php:361
+msgid "Delete"
+msgstr "Excluir"
+
+#: ../../imasters-wp-faq-manager-categories.php:130
+msgid "Category deleted successfully."
+msgstr "Categoria excluída com sucesso."
+
+#: ../../imasters-wp-faq-manager-categories.php:135
+msgid "Category in using by some FAQ can't be deleted."
+msgstr "Categoria usada por alguma FAQ, não pode ser deletada."
+
+#: ../../imasters-wp-faq-manager-categories.php:140
+msgid "Delete category unsuccessful."
+msgstr "Exclusão da categoria falhou."
+
+#: ../../imasters-wp-faq-manager-categories.php:161
+msgid "Back to manager categories."
+msgstr "Voltar para o gerenciador de categorias."
+
+#: ../../imasters-wp-faq-manager-categories.php:161
+#: ../../imasters-wp-faq-manager-categories.php:244
+#: ../../imasters-wp-faq.php:154
+msgid "Manager categories"
+msgstr "Gerenciar categorias"
+
+#: ../../imasters-wp-faq-manager-categories.php:172
+#: ../../imasters-wp-faq-manager.php:222
+msgid "Observations:"
+msgstr "Observações:"
+
+#: ../../imasters-wp-faq-manager-categories.php:185
+#: ../../imasters-wp-faq-manager-categories.php:248
+#: ../../imasters-wp-faq-manager.php:254
+msgid "Add category"
+msgstr "Adicionar categoria"
+
+#: ../../imasters-wp-faq-manager-categories.php:190
+#: ../../imasters-wp-faq-manager-categories.php:224
+#: ../../imasters-wp-faq-manager.php:240
+#: ../../imasters-wp-faq-manager.php:302
+#: ../../imasters-wp-faq-manager.php:372
+msgid "Category"
+msgstr "Categoria"
+
+#: ../../imasters-wp-faq-manager-categories.php:200
+#: ../../imasters-wp-faq-manager-categories.php:235
+#: ../../imasters-wp-faq-manager.php:278
+#: ../../imasters-wp-faq-manager.php:336
+#: ../../imasters-wp-faq-settings.php:54
+msgid "Save"
+msgstr "Salvar"
+
+#: ../../imasters-wp-faq-manager-categories.php:200
+#: ../../imasters-wp-faq-manager-categories.php:235
+#: ../../imasters-wp-faq-manager.php:278
+#: ../../imasters-wp-faq-manager.php:336
+#: ../../imasters-wp-faq-settings.php:54
+msgid "or"
+msgstr "ou"
+
+#: ../../imasters-wp-faq-manager-categories.php:200
+#: ../../imasters-wp-faq-manager-categories.php:235
+#: ../../imasters-wp-faq-manager.php:278
+#: ../../imasters-wp-faq-manager.php:336
+#: ../../imasters-wp-faq-settings.php:54
+msgid "cancel"
+msgstr "cancelar"
+
+#: ../../imasters-wp-faq-manager-categories.php:219
+msgid "Edit category"
+msgstr "Editar categoria"
+
+#: ../../imasters-wp-faq-manager-categories.php:247
+msgid ""
+"You are about to delete the selected Category FAQs. \\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Delete."
+msgstr ""
+"Você tem certeza que quer deletar as Categorias de FAQs selecionadas? \\n"
+"\\n"
+" Escolha [Cancel] para cancelar, [OK] para excluir."
+
+#: ../../imasters-wp-faq-manager-categories.php:256
+msgid "Category name"
+msgstr "Nome da categoria"
+
+#: ../../imasters-wp-faq-manager-categories.php:257
+msgid "ID"
+msgstr "ID"
+
+#: ../../imasters-wp-faq-manager-categories.php:283
+#: ../../window.php:38
+msgid "No category until the moment."
+msgstr "Nenhuma categoria até o momento."
+
+#: ../../imasters-wp-faq-manager.php:35
+#: ../../imasters-wp-faq-manager.php:87
+msgid "FAQ category is required."
+msgstr "Categoria da FAQ é requerida."
+
+#: ../../imasters-wp-faq-manager.php:36
+#: ../../imasters-wp-faq-manager.php:88
+msgid "FAQ topic is required."
+msgstr "Tópico da FAQ é requerido."
+
+#: ../../imasters-wp-faq-manager.php:37
+#: ../../imasters-wp-faq-manager.php:89
+msgid "FAQ answer is required."
+msgstr "Resposta da FAQ é requerida."
+
+#: ../../imasters-wp-faq-manager.php:50
+msgid "FAQ added successfully."
+msgstr "FAQ adicionada com sucesso."
+
+#: ../../imasters-wp-faq-manager.php:56
+msgid "FAQ dont't added"
+msgstr "FAQ não adicionada."
+
+#: ../../imasters-wp-faq-manager.php:102
+msgid "FAQ updated successfully"
+msgstr "FAQ atualizada com sucesso."
+
+#: ../../imasters-wp-faq-manager.php:108
+msgid "FAQ don't updated."
+msgstr "FAQ não atualizada."
+
+#: ../../imasters-wp-faq-manager.php:188
+msgid "FAQ deleted successfully."
+msgstr "FAQ excluída com sucesso."
+
+#: ../../imasters-wp-faq-manager.php:211
+msgid "Back to manager FAQ's."
+msgstr "Voltar para o gerenciador de FAQ's."
+
+#: ../../imasters-wp-faq-manager.php:211
+#: ../../imasters-wp-faq-manager.php:344
+#: ../../imasters-wp-faq.php:153
+msgid "Manager FAQ's"
+msgstr "Gerenciar FAQ's"
+
+#: ../../imasters-wp-faq-manager.php:235
+#: ../../imasters-wp-faq-manager.php:362
+msgid "Add FAQ"
+msgstr "Adicionar FAQ"
+
+#: ../../imasters-wp-faq-manager.php:250
+msgid "Any category added. Add one first."
+msgstr "Nenhuma categoria inserida."
+
+#: ../../imasters-wp-faq-manager.php:260
+#: ../../imasters-wp-faq-manager.php:317
+#: ../../imasters-wp-faq-manager.php:370
+msgid "Topic"
+msgstr "Tópico"
+
+#: ../../imasters-wp-faq-manager.php:268
+#: ../../imasters-wp-faq-manager.php:325
+#: ../../imasters-wp-faq-manager.php:371
+msgid "Answer"
+msgstr "Resposta"
+
+#: ../../imasters-wp-faq-manager.php:297
+msgid "Edit FAQ"
+msgstr "Editar FAQ"
+
+#: ../../imasters-wp-faq-manager.php:347
+msgid "Filter by category: "
+msgstr "Filtrar pela categoria:"
+
+#: ../../imasters-wp-faq-manager.php:350
+#: ../../imasters-wp-faq.php:464
+msgid "All"
+msgstr "Todas"
+
+#: ../../imasters-wp-faq-manager.php:355
+msgid "Filter"
+msgstr "Filtrar"
+
+#: ../../imasters-wp-faq-manager.php:358
+msgid "Search"
+msgstr "Pesquisar"
+
+#: ../../imasters-wp-faq-manager.php:361
+msgid ""
+"You are about to delete the selected FAQs. \\n"
+"\\n"
+" Choose [Cancel] To Stop, [OK] To Uninstall."
+msgstr ""
+"Você tem certeza que quer deletar as FAQs selecionadas? \\n"
+"\\n"
+" Escolha [Cancel] para cancelar, [OK] para excluir."
+
+#: ../../imasters-wp-faq-manager.php:454
+msgid "&laquo;"
+msgstr "&laquo;"
+
+#: ../../imasters-wp-faq-manager.php:455
+msgid "&raquo;"
+msgstr "&laquo;"
+
+#: ../../imasters-wp-faq-manager.php:469
+msgid "View answer"
+msgstr "Ver resposta"
+
+#: ../../imasters-wp-faq-manager.php:480
+msgid "No FAQ by category: "
+msgstr "Nenhuma FAQ pela categoria:"
+
+#: ../../imasters-wp-faq-manager.php:480
+#: ../../imasters-wp-faq-manager.php:485
+msgid "Show all FAQs"
+msgstr "Mostrar todas FAQ's"
+
+#: ../../imasters-wp-faq-manager.php:485
+msgid "No FAQ with the term: "
+msgstr "Nenhuma FAQ com o termo:"
+
+#: ../../imasters-wp-faq-manager.php:489
+msgid "No FAQ until the moment."
+msgstr "Nenhuma FAQ até o momento."
+
+#: ../../imasters-wp-faq-manager.php:503
+#, php-format
+msgid "Displaying %s&#8211;%s of %s"
+msgstr "Mostrando %s&#8211;%s de %s"
+
+#: ../../imasters-wp-faq-settings.php:15
+msgid "Settings updated successfully."
+msgstr "Configurações atualizadas com sucesso."
+
+#: ../../imasters-wp-faq-settings.php:32
+#: ../../imasters-wp-faq.php:155
+msgid "Settings"
+msgstr "Configurações"
+
+#: ../../imasters-wp-faq-settings.php:43
+msgid "Insert JavaScript to collapse answers?"
+msgstr "Usar JavaScript para esconder as respostas?"
+
+#: ../../imasters-wp-faq-settings.php:46
+msgid "Mark this option to insert javascript."
+msgstr "Marque esta opção para inserir o javascript."
+
+#: ../../imasters-wp-faq-uninstall.php:16
+#: ../../imasters-wp-faq-uninstall.php:20
+#: ../../imasters-wp-faq-uninstall.php:62
+#: ../../imasters-wp-faq-uninstall.php:106
+msgid "Uninstall iMasters WP FAQ"
+msgstr "Desinstalar iMasters WP FAQ"
+
+#: ../../imasters-wp-faq-uninstall.php:22
+msgid "Tables"
+msgstr "Tabelas"
+
+#: ../../imasters-wp-faq-uninstall.php:26
+#, php-format
+msgid "<li>Table '%s' has been deleted.</li>"
+msgstr "<li>Tabela '%s' deletada com sucesso.</li>"
+
+#: ../../imasters-wp-faq-uninstall.php:29
+msgid "Options"
+msgstr "Opções"
+
+#: ../../imasters-wp-faq-uninstall.php:34
+#, php-format
+msgid "<li>Option '%s' has been deleted.</li>"
+msgstr "<li>Opção '%s' deletada com sucesso.</li>"
+
+#: ../../imasters-wp-faq-uninstall.php:37
+#, php-format
+msgid "<li>Error deleting Option '%s'.</li>"
+msgstr "<li>Erro ao deletar a opção '%s'.</li>"
+
+#: ../../imasters-wp-faq-uninstall.php:54
+#, php-format
+msgid "<a href=\"%s\" class=\"button-primary\">Deactivate iMasters WP FAQ</a> Disable that plugin to conclude the uninstalling."
+msgstr "<a href=\"%s\" class=\"button-primary\">Desativar iMasters WP FAQ</a> Desative esse plugin para concluir a desinstalação."
+
+#: ../../imasters-wp-faq-uninstall.php:63
+msgid "Uninstaling this plugin the options and table used by iMasters WP FAQ will be removed."
+msgstr "Desinstalando esse plugin as opções e as tabelas usadas por iMasters WP FAQ serão removidas."
+
+#: ../../imasters-wp-faq-uninstall.php:65
+msgid "Warning:"
+msgstr "Atenção:"
+
+#: ../../imasters-wp-faq-uninstall.php:66
+msgid "This process is irreversible. We suggest that you do a database backup first."
+msgstr "Esse processo é irreversível. Sugerimos que faça um backup primeiro."
+
+#: ../../imasters-wp-faq-uninstall.php:71
+msgid "The following WordPress Options and Tables will be deleted:"
+msgstr "As seguintes opções e tabelas do wordpress serão deletadas:"
+
+#: ../../imasters-wp-faq-uninstall.php:78
+msgid "WordPress Options"
+msgstr "Opções do WordPress"
+
+#: ../../imasters-wp-faq-uninstall.php:79
+msgid "WordPress Tables"
+msgstr "Tabelas do Wordpress"
+
+#: ../../imasters-wp-faq-uninstall.php:103
+msgid "Yes. Uninstall iMasters WP FAQ now"
+msgstr "Sim. Desinstalar iMasters WP FAQ agora."
+
+#: ../../imasters-wp-faq.php:146
+msgid "iMasters WP FAQ"
+msgstr "iMasters WP FAQ"
+
+#: ../../imasters-wp-faq.php:157
+msgid "Uninstall"
+msgstr "Desinstalar"
+
+#: ../../imasters-wp-faq.php:493
+msgid "<p>No FAQ found.</p>"
+msgstr "<p>Nenhuma FAQ encontrada.</p>"
+
+#: ../../window.php:26
+msgid "Select Category"
+msgstr "Selecione a Categoria"
+
+#: ../../window.php:44
+msgid "Letters filter"
+msgstr "Filtro de Letras"
+
+#: ../../window.php:45
+msgid "Mark to show letters filter"
+msgstr "Marque para mostrar o filtro de letras por categoria"
+
+#: ../../window.php:51
+msgid "Cancel"
+msgstr "Cancelar"
+
+#: ../../window.php:54
+msgid "Insert"
+msgstr "Inserir"
+
+#~ msgid "Filter of letters"
+#~ msgstr "Filtro de letras"
+#~ msgid "WARNING:"
+#~ msgstr "Atenção:"
+

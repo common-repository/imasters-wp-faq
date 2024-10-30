@@ -1,0 +1,9 @@
+input#faq_topic {
+    width: 460px;
+}
+input#filter-by-cat {
+    margin-right: 20px;
+}
+input#delete-cat{
+    margin-right: 20px;
+}
